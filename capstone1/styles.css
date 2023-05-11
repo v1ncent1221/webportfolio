@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Rubik', sans-serif;
+}
+
+.navbar-brand{
+    cursor: pointer;
+    font-size: 2rem;
+}
+
+.navbar{
+    background: #ff8177;
+    font-size: 1.2rem;
+    text-decoration: none;
+}
+
+.bg-nino{
+    background: #ff8177
+}
